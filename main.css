@@ -1,0 +1,27 @@
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 600px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.t {
+    background-color: yellow;
+}
+
+caption {
+    background-color: aqua;
+}
+
+.ok {
+    color: white;
+    background-color: rgb(7, 173, 7);
+}
+
+.oka {
+    background-color: red;
+    color: white;
+}
